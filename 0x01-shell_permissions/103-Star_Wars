@@ -1,2 +1,2 @@
 #!/bin/bash
-#Play latest edition of StarWar
+telnet towel.blinkenlights.nl
